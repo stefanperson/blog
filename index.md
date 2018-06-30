@@ -10,4 +10,3 @@ layout: home
 
 {% include youtubePlayer.html id=dQw4w9WgXcQ %}
 <br/>
-<br/>
