@@ -8,5 +8,9 @@
 layout: home
 ---
 
+<<<<<<< HEAD
 {% include youtubePlayer.html id=dQw4w9WgXcQ %}
 <br/>
+=======
+{% include youtubePlayer.html id=page.youtubeId %}
+>>>>>>> parent of 79e2495... d
