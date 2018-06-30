@@ -6,7 +6,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+youtubeId: dQw4w9WgXcQ
 ---
 
-{% include youtubePlayer.html id=page.dQw4w9WgXcQ %}
+{% include youtubePlayer.html id=page.youtubeId %}
+
 <br/>
