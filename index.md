@@ -6,10 +6,15 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+youtubeId: dQw4w9WgXcQ
 ---
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 {% include youtubePlayer.html id=dQw4w9WgXcQ %}
+=======
+{% include youtubePlayer.html id=page.youtubeId %}
+>>>>>>> parent of 4ca6f33... ds
 <br/>
 =======
 {% include youtubePlayer.html id=page.youtubeId %}
